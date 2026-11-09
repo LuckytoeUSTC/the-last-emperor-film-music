@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "path_base": "project_root",
+  "film": {
+    "title": null,
+    "year": null,
+    "version": null
+  },
+  "presentation": {
+    "pptx": null,
+    "pdf": null,
+    "spoken_script": null,
+    "offline_player": null,
+    "page_manifest": null
+  },
+  "sources": null,
+  "second_pass_materials": [],
+  "timing": {
+    "limit_minutes": 45,
+    "include_media": null,
+    "include_process_interaction": null,
+    "exclude_post_presentation_questions": null,
+    "basis": "45分钟上限来自当前课程要求；具体计时口径请本组确认"
+  },
+  "optional_full_film": {
+    "path": null,
+    "status": "not_provided"
+  },
+  "output_directory": null
+}

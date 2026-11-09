@@ -1,0 +1,9 @@
+*.pdf -text
+*.pptx -text
+*.mp4 -text
+*.mp3 -text
+*.m4a -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.zip -text
