@@ -7,3 +7,6 @@
 *.jpg -text
 *.jpeg -text
 *.zip -text
+
+*.md text eol=lf
+*.json text eol=lf
