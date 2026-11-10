@@ -18,13 +18,17 @@
   "timing": {
     "limit_minutes": 45,
     "include_media": null,
-    "include_process_interaction": null,
     "exclude_post_presentation_questions": null,
-    "basis": "45分钟上限来自当前课程要求；具体计时口径请本组确认"
+    "basis": "45分钟限制来自课件；提问与评价的具体计时口径按接收小组确认，不从出题设计推定。"
   },
   "optional_full_film": {
     "path": null,
     "status": "not_provided"
   },
-  "output_directory": null
+  "output_directory": null,
+  "audience_questions": {
+    "direction": "students_to_presenters",
+    "after_presentation": true,
+    "presenter_quiz_required": false
+  }
 }
