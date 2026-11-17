@@ -1,0 +1,218 @@
+{
+  "note": "本案例的独立影片资料；本地文件状态已经核对。本次评审是否实际阅读及阅读位置，由评审者另行记录。",
+  "sources": [
+    {
+      "id": "ALBUM",
+      "title": "《末代皇帝》原声专辑曲目署名",
+      "type": "曲目资料",
+      "originalUrl": "https://music.apple.com/us/song/714659406",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "A01",
+      "title": "Academy：The 60th Academy Awards, 1988",
+      "type": "官方奖项",
+      "originalUrl": "https://www.oscars.org/oscars/ceremonies/1988",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "A02",
+      "title": "Golden Globes：Last Emperor, The",
+      "type": "官方奖项",
+      "originalUrl": "https://goldenglobes.com/film/last-emperor-the/",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "B01",
+      "title": "Box Office Mojo：The Last Emperor",
+      "type": "市场数据库",
+      "originalUrl": "https://www.boxofficemojo.com/title/tt0093389/",
+      "localFiles": [
+        "影片资料/末代皇帝/全文文字/FACT_BoxOfficeMojo_票房资料.txt"
+      ],
+      "accessStatus": "本地已收录；实际阅读范围由评审者记录",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R06",
+      "title": "Jonathan Broxton：The Last Emperor，Movie Music UK，2017-11-30",
+      "type": "音乐评论原文",
+      "originalUrl": "https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/",
+      "localFiles": [
+        "影片资料/末代皇帝/全文文字/R06_Broxton_配乐评论.txt"
+      ],
+      "accessStatus": "本地已收录；实际阅读范围由评审者记录",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R08",
+      "title": "Bilge Ebiri：The Quad Honors Ryuichi Sakamoto，The Village Voice，2017-05-09",
+      "type": "电影与音乐评论原文",
+      "originalUrl": "https://www.villagevoice.com/the-quad-honors-ryuichi-sakamoto/",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R09",
+      "title": "Margaret Barton-Fumo：Deep Cuts: Ryuichi Sakamoto，Film Comment，2016",
+      "type": "评论原文、含二手转述",
+      "originalUrl": "https://www.filmcomment.com/deep-cuts-ryuichi-sakamoto/",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "P01",
+      "title": "Hillary Weston：Sonic Memories: A Conversation with Ryuichi Sakamoto，Criterion，2017-06-01",
+      "type": "作曲者访谈",
+      "originalUrl": "https://www.criterion.com/current/posts/4625-sonic-memories-a-conversation-with-ryuichi-sakamoto",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "P07",
+      "title": "Kimberly Chun：RYUICHI SAKAMOTO，Mix，2000-09-01",
+      "type": "作曲者访谈",
+      "originalUrl": "https://www.mixonline.com/recording/ryuichi-sakamoto-374280",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "T01",
+      "title": "Science Museum Group：Fairlight CMI Series 3 Mainframe",
+      "type": "博物馆技术说明",
+      "originalUrl": "https://collection.sciencemuseumgroup.org.uk/objects/co8607596/fairlight-cmi-series-3-mainframe",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "S03",
+      "title": "Yu & Ahn，Musical narratives in The Last Emperor，2025，13(2):177–199",
+      "type": "音乐研究",
+      "originalUrl": "https://dergipark.org.tr/en/download/article-file/4740203",
+      "localFiles": [
+        "影片资料/末代皇帝/研究论文/S03_Yu与Ahn_音乐叙事研究.pdf",
+        "影片资料/末代皇帝/全文文字/S03_Yu与Ahn_音乐叙事研究.txt"
+      ],
+      "accessStatus": "本地已收录；实际阅读范围由评审者记录",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "V01",
+      "title": "梦鱼／DM频道：《解读〈末代皇帝〉配乐》；未审核字幕与作者原视频",
+      "type": "独立视频分析的未审核字幕",
+      "originalUrl": "https://www.bilibili.com/video/BV1ywb46oEQ9/",
+      "localFiles": [
+        "影片资料/末代皇帝/视频分析字幕/【解读《末代皇帝》配乐：音乐到底是如何表达一个皇帝“悲惨”的一生的】.md"
+      ],
+      "accessStatus": "本地已收录；实际阅读范围由评审者记录",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "S01",
+      "title": "Yushang Ni，Analysis of the Fusion and Collision…，2021",
+      "type": "研究论文",
+      "originalUrl": "https://www.atlantis-press.com/article/125957625.pdf",
+      "localFiles": [
+        "影片资料/末代皇帝/研究论文/S01_Ni_音乐与文化研究.pdf",
+        "影片资料/末代皇帝/全文文字/S01_Ni_音乐与文化研究.txt"
+      ],
+      "accessStatus": "本地已收录；实际阅读范围由评审者记录",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "S02",
+      "title": "Oksana Venzheha，Harmony in Motion，2023/24，pp.32—39",
+      "type": "硕士论文",
+      "originalUrl": "https://thesis.unipd.it/retrieve/3d2a7d4e-78cf-4df5-b6b2-fc438ca9f4c7/Venzheha_Oksana.pdf",
+      "localFiles": [
+        "影片资料/末代皇帝/研究论文/S02_Venzheha_坂本电影音乐研究.pdf",
+        "影片资料/末代皇帝/全文文字/S02_Venzheha_坂本电影音乐研究.txt"
+      ],
+      "accessStatus": "本地已收录；实际阅读范围由评审者记录",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "P08",
+      "title": "坂本龙一与莲实重彦对谈，1987；Stella Hsieh英译，2021",
+      "type": "创作者对谈的具名译文",
+      "originalUrl": "https://lysisme.art.blog/2021/05/31/a-private-dialogue-shigehiko-hasumi-and-ryuichi-sakamoto-on-the-last-emperor/",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "P09",
+      "title": "Alec Coiro，Face-to-face with Ryuichi Sakamoto，Ravelin",
+      "type": "创作者采访",
+      "originalUrl": "https://ravelinmagazine.com/posts/face-to-face-with-ryuichi-sakamoto/",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R10",
+      "title": "KKさん，《ラストエンペラー》分析その4・その20，2023",
+      "type": "作者原创谱例与分析",
+      "originalUrl": "https://note.com/20012010/n/nae54bbd75516",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R11",
+      "title": "KKさん，Open the Door分析その6，2023",
+      "type": "作者原创谱例与分析",
+      "originalUrl": "https://note.com/20012010/n/n2ae283ea5543",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R12",
+      "title": "高橋智子，《和音を刻む手》，ele-king，2024-12-12",
+      "type": "音乐评论",
+      "originalUrl": "https://www.ele-king.net/columns/011596/",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "P11",
+      "title": "Ryuichi Sakamoto Official Score Store，2022-07-26",
+      "type": "官方谱本说明",
+      "originalUrl": "https://score-en.sitesakamoto.com/blogs/news/new-piano-scores-for-the-last-emperor-and-gui-are-now-available",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R14",
+      "title": "Michael Giltz，The Sound of Film Music，CD Review，1994-04，pp.33—34",
+      "type": "专业唱片评论，作者网站扫描",
+      "originalUrl": "https://michaelgiltz.com/scans/CDReview-Movie_music_Oscar_winning_soundtracks-4-1-1994.pdf",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    },
+    {
+      "id": "R02",
+      "title": "David Thomson，The Last Emperor, or The Manchurian Candidate，Criterion，2009-01-06",
+      "type": "影评人原创评论",
+      "originalUrl": "https://www.criterion.com/current/posts/556-the-last-emperor-or-the-manchurian-candidate",
+      "localFiles": [],
+      "accessStatus": "原网址待本次评审打开",
+      "reviewReadScope": "待本次评审者填写已读范围、原文位置和所据判断"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 2,
+  "path_base": "project_root",
+  "film": {
+    "title": "末代皇帝",
+    "year": 1987,
+    "version": "展示片段内嵌于PPT；观影范围按本次评审实际记录"
+  },
+  "presentation": {
+    "pptx": {
+      "path": "展示/成品/听见末代皇帝_v10.pptx",
+      "bytes": 73207712,
+      "sha256": "fa7dc95c9569c4f56d2a68f5f7f25f0b28748ba5bc9dbbcabb47df809a73f24d"
+    },
+    "pdf": {
+      "path": "展示/成品/听见末代皇帝_v10.pdf",
+      "bytes": 8386650,
+      "sha256": "7924cc5dd8abddcaa40fb1cf139fb6c8360f0d1a93b41e33b28dfb7b45aa7e8f"
+    },
+    "spoken_script": {
+      "path": "展示/成品/逐页讲稿与分工.md",
+      "bytes": 24580,
+      "sha256": "85ef89a7bcd0988219579f72daf4f51880a500546707a412536752270427e6be"
+    },
+    "offline_player": null,
+    "page_manifest": "评审案例/末代皇帝/逐页材料.json"
+  },
+  "sources": "评审案例/末代皇帝/资料来源.json",
+  "second_pass_materials": [],
+  "timing": {
+    "limit_minutes": 45,
+    "include_media": true,
+    "exclude_post_presentation_questions": true,
+    "basis": "45分钟限制来自课件；本组讲解与媒体计入，讲演后正式提问和抽选评价另计。"
+  },
+  "optional_full_film": {
+    "path": null,
+    "status": "not_in_project",
+    "action": "如需完整观影，请用户补充合法可用片源到项目内并更新路径；不从旧机器磁盘路径猜测"
+  },
+  "output_directory": "评审案例/末代皇帝/评审输出",
+  "audience_questions": {
+    "direction": "students_to_presenters",
+    "after_presentation": true,
+    "presenter_quiz_required": false
+  },
+  "pre_review_materials": [
+    "评审案例/末代皇帝/影片阅读指南.md"
+  ]
+}
