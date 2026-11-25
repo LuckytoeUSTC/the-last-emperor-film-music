@@ -1,0 +1,378 @@
+{
+  "path_base": "project_root",
+  "presentation": "展示/成品/听见末代皇帝_v10.pptx",
+  "pages": [
+    {
+      "page": 1,
+      "title": "《末代皇帝》音乐赏析",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded1.mp4",
+          "bytes": 6177831,
+          "sha256": "d05febe4e9023d2ba7a650b4c544858d91bf93c0f5ec0327d33b3e8b954abaf1"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "片头的声音与空间",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded2.mp4",
+          "bytes": 2408824,
+          "sha256": "d05fac7f1a2f1bc1c76fecc4b003402d3478848216a9a4053fd02dc89f64864e"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "音乐细读与整体理解",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 4,
+      "title": "作曲分工与主题辨认",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 5,
+      "title": "主题材料与音响质感",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded3.m4a",
+          "bytes": 489592,
+          "sha256": "01ccf0ffe49b7b714a07717e771b0ac4a51d84235816e360b01425ef7cb407a5"
+        },
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded4.m4a",
+          "bytes": 489262,
+          "sha256": "e548a5d9a24e05369937df6739a3e11c0e420febcbafb2ec31e8496913f8b74e"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "title": "合成、采样与编序",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 7,
+      "title": "历史空间与声音选择",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 8,
+      "title": "奔跑与骑车",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded5.mp4",
+          "bytes": 5641534,
+          "sha256": "f538cc46a577650c6ee6726b4f17e10c43cc4a2d458e46f6b69949e5dc2197ea"
+        },
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded6.mp4",
+          "bytes": 4026273,
+          "sha256": "5c92b61c7e5b91ce2e6a1a20d73a05ef50775d8578a716acd3acade61c964fcc"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "title": "追阿嬷：追赶与呼喊",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded7.mp4",
+          "bytes": 4847944,
+          "sha256": "96d4d12ca933160aeeeb722c8d76fcb91c5a90b68cc7afeee1c34fe786412bf3"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "title": "追婉容：旋律与伴奏",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded8.mp4",
+          "bytes": 3580432,
+          "sha256": "ea0d9de73bfa7fc82a72fb95c178c88545849043a357d37f09495cc2e441430c"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "title": "两次追赶的声部关系",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 12,
+      "title": "人声转场与叙事时间",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 13,
+      "title": "回忆转场与音乐进入",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded9.mp4",
+          "bytes": 2421427,
+          "sha256": "f1951d783b8fc2b6c7df532e47d7a3e34013ceb04a1299effdac709182d33f4c"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "title": "文绣出走与音乐动力",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded10.mp4",
+          "bytes": 4750237,
+          "sha256": "96e5f79443842eab458e24553fcf2e10d8de0c47909425425143b32abd041f9a"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "title": "Rain：体验与悬置",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded11.m4a",
+          "bytes": 1462317,
+          "sha256": "b193aed0e5970df822070be04bb57ed90b83bc03ea66c8c53f6b0c5b469f1fac"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "title": "Rain：脉冲与低音",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 17,
+      "title": "Rain：旋律与和声",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 18,
+      "title": "Rain与电影语境",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 19,
+      "title": "配乐的退让与声音前景",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded12.mp4",
+          "bytes": 5407796,
+          "sha256": "2a2f2191da1dc02c09af65427b661af2971d288a9338903cd4618a62d7e39dde"
+        },
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded13.mp4",
+          "bytes": 8108479,
+          "sha256": "3a8c75b849c08fdd60101e923317389c9b9bbba16478f62804095a57d8f249f5"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "title": "分组录音与声部平衡",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 21,
+      "title": "晚年重访与身份记忆",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded14.mp4",
+          "bytes": 5517091,
+          "sha256": "05a8c815de2663930e52f5eff227434d5600d55d2eb60fc4a36299596d0ea960"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "title": "主题重现与叙事位置",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded15.m4a",
+          "bytes": 846995,
+          "sha256": "f0aa7306bebba9c28aa93ab21b55eb182af3b8835347ee23c5d909f1ff4cb848"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "title": "行业认可与音乐评价",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 24,
+      "title": "票房规模与评价范围",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 25,
+      "title": "音乐评价与听者经验",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 26,
+      "title": "人物同情与历史责任",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 27,
+      "title": "音乐动力与行动自主",
+      "status": "main",
+      "speaker": "x",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded16.m4a",
+          "bytes": 363575,
+          "sha256": "ffb42da058a05571441bedebed9683355a1ce9ea2614ee4d1c0645e9065a2abc"
+        },
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded17.mp4",
+          "bytes": 4750237,
+          "sha256": "96e5f79443842eab458e24553fcf2e10d8de0c47909425425143b32abd041f9a"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "title": "声音中的个人与历史",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 29,
+      "title": "总结：",
+      "status": "main",
+      "speaker": "x",
+      "media": []
+    },
+    {
+      "page": 30,
+      "title": "参考资料：制作与市场",
+      "status": "reference",
+      "speaker": "共同",
+      "media": []
+    },
+    {
+      "page": 31,
+      "title": "参考资料：音乐与评论",
+      "status": "reference",
+      "speaker": "共同",
+      "media": []
+    },
+    {
+      "page": 32,
+      "title": "补充试听：主题与动机",
+      "status": "backup",
+      "speaker": "共同",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded18.m4a",
+          "bytes": 846995,
+          "sha256": "f0aa7306bebba9c28aa93ab21b55eb182af3b8835347ee23c5d909f1ff4cb848"
+        },
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded19.m4a",
+          "bytes": 727710,
+          "sha256": "72a853b76554c5869c9767e17515de7b9ed7a43e7a28da7c737447f4a6137ff1"
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "title": "补充片段：鼓声与枪声",
+      "status": "backup",
+      "speaker": "共同",
+      "media": [
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded20.mp4",
+          "bytes": 4111026,
+          "sha256": "2ae4361174443f1e46c369965ee605d6face2ac9cbe1dff372c8187375f48501"
+        },
+        {
+          "location": "embedded_in_pptx",
+          "packagePart": "ppt/media/embedded21.mp4",
+          "bytes": 3835578,
+          "sha256": "21507481d2ebf8420968b90ba421f5a23c3ab9454b173eda9a807b983ae4bcbb"
+        }
+      ]
+    }
+  ]
+}

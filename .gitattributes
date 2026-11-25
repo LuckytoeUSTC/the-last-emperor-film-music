@@ -1,0 +1,14 @@
+参考资料/原文留存/** -text
+
+*.pdf -text
+*.pptx -text
+*.mp4 -text
+*.mp3 -text
+*.m4a -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.zip -text
+
+*.md text eol=lf
+*.json text eol=lf
